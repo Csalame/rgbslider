@@ -69,7 +69,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="OPEN"/>
                                 <connections>
-                                    <segue destination="acs-Fn-7c4" kind="show" id="kfe-KL-Rre"/>
+                                    <segue destination="acs-Fn-7c4" kind="show" identifier="openColor" id="kfe-KL-Rre"/>
                                 </connections>
                             </button>
                         </subviews>
